@@ -1,3 +1,4 @@
 maslo
 chleb
 piwo
+ryz
